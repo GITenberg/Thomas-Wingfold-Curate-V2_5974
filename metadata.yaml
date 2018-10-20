@@ -1,5 +1,5 @@
 _repo: Thomas-Wingfold-Curate-V2_5974
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Wingfold, Thomas (Fictitious character) -- Fiction'
 - !lcsh 'Christian fiction'
 - !lcc 'PR'
+- GITenberg
 title: Thomas Wingfold, Curate V2
 url: http://www.gutenberg.org/ebooks/5974
